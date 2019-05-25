@@ -1,5 +1,6 @@
 # Python Commands
 
+## creating installers for MacOSx
 pyinstaller -w --noconfirm -i=main.icns --clean -F main.py
 
 
