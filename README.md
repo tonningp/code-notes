@@ -6,6 +6,3 @@ description: Random notes on code in different languages
 
 Python
 
-
-
-

@@ -1,11 +1,14 @@
 # Table of contents
 
 * [Notes on Code and Other Stuff](README.md)
+* [Docker Notes](docker-notes.md)
 
 ## Python
 
-* [Sites](python-1/python.md)
-* [Python Commands](python-1/untitled.md)
+* [Sites](python/python.md)
+* [Python Commands](python/python-commands.md)
 
 ## Operating Systems
-* [Ubuntu](ubuntu.md)
+
+* [Ubuntu](operating-systems/ubuntu.md)
+
